@@ -1,0 +1,6 @@
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\bin\Debug\BasicTypes.exe.config
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\bin\Debug\BasicTypes.exe
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\bin\Debug\BasicTypes.pdb
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\obj\Debug\BasicTypes.exe
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\obj\Debug\BasicTypes.pdb
+c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\BasicTypes\obj\Debug\BasicTypes.csprojResolveAssemblyReference.cache
