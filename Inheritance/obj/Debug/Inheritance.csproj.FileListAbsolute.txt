@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance\obj\Debug\Inheritance.pdb
