@@ -1,0 +1,5 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Classes_Constructors_Demo2\bin\Debug\Classes_Constructors_Demo2.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Classes_Constructors_Demo2\bin\Debug\Classes_Constructors_Demo2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Classes_Constructors_Demo2\bin\Debug\Classes_Constructors_Demo2.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Classes_Constructors_Demo2\obj\Debug\Classes_Constructors_Demo2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Classes_Constructors_Demo2\obj\Debug\Classes_Constructors_Demo2.pdb

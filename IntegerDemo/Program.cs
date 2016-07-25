@@ -20,6 +20,7 @@ namespace IntegerDemo
             char a = 'i';
             bool guess = false;
             float points = 3.578f;
+            DateTime date = DateTime.Now;
 
               Console.WriteLine($"Tony's age is {age} this year.  Sydney has {b} more year of school, and her gpa of {gpa} is fine.");
              
@@ -27,7 +28,7 @@ namespace IntegerDemo
              
               Console.WriteLine($"We drove {tot} miles in one day.  They were {guess} is their estimate.");
             
-              Console.WriteLine($"Sam's morgage rate is at {points} percent.");
+              Console.WriteLine($"Sam's morgage rate is at {points} percent as of {date}.");
               Console.ReadLine();
         }
     }
