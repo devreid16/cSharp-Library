@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\obj\Debug\ForLoop.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\ForLoop\obj\Debug\ForLoop.pdb
