@@ -11,26 +11,36 @@ namespace CollectionsDemo
         static void Main(string[] args)
         {
             //string list of favorite fruits
-            var fruits = new List<string>();
-                fruits.Add("Cherries");
-                fruits.Add("Grapes");
-                fruits.Add("Bananas");
-                fruits.Add("Peaches");
-                fruits.Add("Apples");
+            //var fruits = new List<string>();
+            //    fruits.Add("Cherries");
+            //    fruits.Add("Grapes");
+            //    fruits.Add("Bananas");
+            //    fruits.Add("Peaches");
+            //    fruits.Add("Apples");
             
-             //set x counter to zero, compare counter to number of fruits listed, as long as there are
-             //more fruits add 1 to counter
-            for (var x = 0; x < fruits.Count; x++)
-            {
-                Console.WriteLine(fruits[x]); //set variable food equal to the current fruit using the index
+            // //set x counter to zero, compare counter to number of fruits listed, as long as there are
+            // //more fruits add 1 to counter
+            //for (var x = 0; x < fruits.Count; x++)
+            //{
+            //    Console.WriteLine(fruits[x]); //set variable food equal to the current fruit using the index
                
-            }
+            //}
 
-            for (var x = 0; x < fruits.Count; x++)
+            //for (var x = 0; x < fruits.Count; x++)
+            //{
+            //    Console.WriteLine(fruits); //print list of foods using interpolation
+            //    Console.ReadLine(); //pause screen to read
+            //}
+
+            string[] friend = { "Norma", "Sarah", "BettySue", "Donna" };
+
+            foreach(string name in friend)
             {
-                Console.WriteLine(fruits); //print list of foods using interpolation
-                Console.ReadLine(); //pause screen to read
+                Console.WriteLine(name);                
             }
+            Console.WriteLine("Press Enter to Exit");
+            Console.ReadLine();
+            
         }
     }
 }

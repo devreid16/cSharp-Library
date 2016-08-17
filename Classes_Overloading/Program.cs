@@ -14,7 +14,7 @@ namespace Classes_Overloading
             Animals Kangeroo2 = new Animals("Kangaroo", "Big One");
             Animals Platypus = new Animals("Playtypus", "Sea Creature");
 
-            Console.WriteLine("My favorite animal is {0}" Kangeroo);   
+            Console.WriteLine("My favorite animal is {0}", Kangeroo);   
         }
     }
     
