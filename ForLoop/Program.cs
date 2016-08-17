@@ -23,7 +23,7 @@ namespace ForLoop
             for (var s = 0; s <= 4; s++ )
             {
                 var name = shoes[s];
-                Console.Write($"Shoe Type: { shoes[s]}' '");
+                Console.Write($"Shoe Type: { shoes[s]} - ");
                
             }
             Console.ReadLine();
