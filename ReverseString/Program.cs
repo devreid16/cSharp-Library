@@ -10,23 +10,36 @@ namespace ReverseString
     {
         static void Main(string[] args)
         {
-            //variable to hold string
-            string Str, ReversedStr = "";
+            ////variable to hold string
+            //string Str, ReversedStr = "";
 
-            //Ask for and accept user input for string 
-            Console.Write("Enter A String : ");
-            Str = Console.ReadLine();
+            ////Ask for and accept user input for string 
+            //Console.Write("Enter A String : ");
+            //Str = Console.ReadLine();
 
-            //Index of string length
-            for (int i = Str.Length - 1; i >= 0; i--)
+            ////Index of string length
+            //for (int i = Str.Length - 1; i >= 0; i--)
+            //{
+            //    //index of reversed string to print out
+            //    ReversedStr = ReversedStr + Str[i];
+            //}
+
+            ////print reversed string to console
+            //Console.WriteLine("Reversed string:  {0}", ReversedStr);
+            //Console.ReadLine();
+
+
+            string name = "Eleven Fifty"; 
+            string RevStr = "";
+
+            for (int i = name.Length - 1; i >= 0; i--)
             {
-                //index of reversed string to print out
-                ReversedStr = ReversedStr + Str[i];
+                RevStr = RevStr + name[i];
             }
-
-            //print reversed string to console
-            Console.WriteLine("Reversed string:  {0}", ReversedStr);
+            Console.WriteLine("Name Reversed: {0}", RevStr);
             Console.ReadLine();
+
+
 
         }       
         

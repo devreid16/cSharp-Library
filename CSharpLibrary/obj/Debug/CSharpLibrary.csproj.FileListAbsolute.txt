@@ -4,3 +4,9 @@ c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\CSharpLibrary
 c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
 c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
 c:\users\reida\documents\visual studio 2015\Projects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
