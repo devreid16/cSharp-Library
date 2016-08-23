@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions2.cs", "Functions2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{05908A08-CF65-472F-B82F-F7BD8CC31B90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "DictionaryPractice\DictionaryPractice.csproj", "{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

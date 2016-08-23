@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\bin\Debug\DictionaryPractice.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\bin\Debug\DictionaryPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\bin\Debug\DictionaryPractice.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\obj\Debug\DictionaryPractice.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\obj\Debug\DictionaryPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\DictionaryPractice\obj\Debug\DictionaryPractice.pdb
