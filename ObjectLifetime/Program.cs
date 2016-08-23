@@ -32,6 +32,7 @@ namespace ObjectLifetime
     //    public string Color { get; set; }
     //    public double OriginalPrice { get; set; }
 
+        //Constructor
     //    public Car()
     //    {
     //        //you could use data from database, config file, etc.
@@ -40,6 +41,7 @@ namespace ObjectLifetime
     //        this.Make = "Nissan";
     //    } 
 
+        //Constructor
     //    public Car(string make, string model, int year, string color)
     //    {
     //        Make = make;
@@ -69,16 +71,20 @@ namespace ObjectLifetime
         //    //Console.ReadLine();
         //}
 
+            //Constructor
         public Student()
-        {           
-
+        {
+            this.FName = "James";
+            this.LName = "Brown";
             this.Grade = 12;
             this.School = "High School";
 
-            Console.WriteLine("He's in {0} at {1}", Grade, School);
+            Console.WriteLine("{0} {1} is in {2} grade at {3}", FName, LName, Grade, School);
             Console.ReadLine();
 
         }
+
+
 
         
     }
