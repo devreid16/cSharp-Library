@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\bin\Debug\StringPractice.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\bin\Debug\StringPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\bin\Debug\StringPractice.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\obj\Debug\StringPractice.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\obj\Debug\StringPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\StringPractice\obj\Debug\StringPractice.pdb

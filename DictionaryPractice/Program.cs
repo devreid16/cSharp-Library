@@ -10,7 +10,7 @@ namespace DictionaryPractice
     {
         static void Main(string[] args)
         {
-    
+
             //Dictionary<int, string> friendRank = new Dictionary<int, string>()
             //{
             //    {12, "Sarah" },
@@ -24,18 +24,32 @@ namespace DictionaryPractice
             //}
             //Console.ReadLine();
 
-            Dictionary<string, string> Movies = new Dictionary<string, string>()
+            //Dictionary<string, string> Movies = new Dictionary<string, string>()
+            //{
+            //    {"2012", "2012" },
+            //    {"2000", "A League Of Their Own" },
+            //    {"2011", "Bourne Supremacy" },
+            //    {"2015", "Creed" }
+            //};
+
+            //foreach(KeyValuePair<string, string> pair in Movies)
+            //{
+            //    Console.WriteLine("{0} {1}", pair.Key, pair.Value);
+            //}
+            //Console.ReadLine();
+
+            Dictionary<string, int> friends = new Dictionary<string, int>()
             {
-                {"2012", "2012" },
-                {"2000", "A League Of Their Own" },
-                {"2011", "Bourne Supremacy" },
-                {"2015", "Creed" }
+                {"Norma", 15 },
+                {"Sarah", 12 },
+                {"BettySue", 8 }
             };
 
-            foreach(KeyValuePair<string, string> pair in Movies)
+            foreach(KeyValuePair<string, int> pair in friends)
             {
-                Console.WriteLine("{0} {1}", pair.Key, pair.Value);
+                Console.WriteLine("I've known {0} for {1} years", pair.Key, pair.Value);
             }
+
             Console.ReadLine();
         }
     }
