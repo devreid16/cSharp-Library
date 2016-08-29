@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\bin\Debug\WhileLoop.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WhileLoop\obj\Debug\WhileLoop.pdb

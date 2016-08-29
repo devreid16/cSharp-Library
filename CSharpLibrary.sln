@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "Dicti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPractice", "StringPractice\StringPractice.csproj", "{EBEAC5A0-ED3E-409B-8273-1A3586B69AF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatements", "IfStatements\IfStatements.csproj", "{7A8C77F1-9158-4F52-95DB-F4635BF67388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{3813CB67-86D6-4571-9A77-C835266770CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{EBEAC5A0-ED3E-409B-8273-1A3586B69AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBEAC5A0-ED3E-409B-8273-1A3586B69AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBEAC5A0-ED3E-409B-8273-1A3586B69AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8C77F1-9158-4F52-95DB-F4635BF67388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8C77F1-9158-4F52-95DB-F4635BF67388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8C77F1-9158-4F52-95DB-F4635BF67388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8C77F1-9158-4F52-95DB-F4635BF67388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3813CB67-86D6-4571-9A77-C835266770CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3813CB67-86D6-4571-9A77-C835266770CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3813CB67-86D6-4571-9A77-C835266770CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3813CB67-86D6-4571-9A77-C835266770CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

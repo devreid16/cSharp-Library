@@ -24,17 +24,30 @@ namespace StringPractice
 
             //Console.ReadLine();
 
-            string herName = "Ally";
-            string herLastName = "McGraw";
+            //string herName = "Ally";
+            //string herLastName = "McGraw";
 
-            Console.WriteLine("Name: " + herName + " " + herLastName);
+            //Console.WriteLine("Name: " + herName + " " + herLastName);
+            //Console.ReadLine();
+
+            //Console.WriteLine("Enter a new name: ");
+
+            //herName = Console.ReadLine();
+
+            //Console.WriteLine("New Name: " + herName + " " + herLastName);
+            //Console.ReadLine();
+
+
+            string hisFname = "Bob";
+            string hisLname = "Jones";
+
+            Console.WriteLine("Name: " + hisFname + " " + hisLname);
             Console.ReadLine();
 
             Console.WriteLine("Enter a new name: ");
+            hisFname = Console.ReadLine();
 
-            herName = Console.ReadLine();
-
-            Console.WriteLine("New Name: " + herName + " " + herLastName);
+            Console.WriteLine("New Name: " + hisFname + " " + hisLname);
             Console.ReadLine();
             
 
