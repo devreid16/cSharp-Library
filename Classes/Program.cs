@@ -15,7 +15,7 @@ namespace Classes
             angiesCar.Make = "Toyota";
             angiesCar.Year = 2007;
             angiesCar.PrintYear();
-            //{0} goes to the object to the right on the same line
+            //{0} references the object to the right on the same line
             Console.WriteLine("Angie owns a {0} {1}", angiesCar.Year, angiesCar.Make);
             
 
@@ -25,14 +25,17 @@ namespace Classes
             angiesCar.PrintYear();
 
             Console.WriteLine("Sean's car is a {0}", seansCar.Make);
-            Console.ReadLine();
+           // Console.ReadLine();
 
-
+               //another object from Car class
             Car jensCar = new Car();
+            jensCar.IsAutomatic = false;
+            Console.WriteLine("Jen's car is automatic is: {0}", jensCar.IsAutomatic);
+            Console.ReadLine();
         }
     }
 
-    public class Car //this is the cookie cutter
+    public class Car //this class is the cookie cutter
     {
         //properties
         public int Year { get; set; }
