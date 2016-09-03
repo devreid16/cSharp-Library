@@ -10,42 +10,42 @@ namespace CSharpLibrary
     {       //"For" Loop practice
         static void Main(string[] args)
         {
-            //int number = 7;
+               //int number = 7;
 
-            //for (var i = 0; i < number; i++)
+               //for (var i = 0; i < number; i++)
 
-            //Console.WriteLine(i);
-            //Console.ReadLine();
+               //Console.WriteLine(i);
+               //Console.ReadLine();
 
-            //int count = 9;
+               //int count = 9;
 
-            //for (int c = 0; c < count; c++)
+               //for (int c = 0; c < count; c++)
 
-            //Console.WriteLine(c);
-            //Console.ReadLine();
+               //Console.WriteLine(c);
+               //Console.ReadLine();
 
-            //int students = 8;
+               //int students = 8;
 
-            //for (int s = 0; s<students; s++)
-            //    Console.WriteLine("Student: {0}", s);
-            //    Console.ReadLine();
+               //for (int s = 0; s<students; s++)
+               //    Console.WriteLine("Student: {0}", s);
+               //    Console.ReadLine();
 
-            //List<string> names = new List<string>
-            //{
-            //    "Christa",
-            //    "Bob",
-            //    "Mekelchedeck",
-            //    "Susan",
-            //};
+               //List<string> names = new List<string>
+               //{
+               //    "Christa",
+               //    "Bob",
+               //    "Mekelchedeck",
+               //    "Susan",
+               //};
 
-            //foreach (string name in names)
-            //{
-                
-            //    Console.WriteLine(name);
-            //}
-            //Console.ReadLine();
+               //foreach (string name in names)
+               //{
 
-            string[] friends = { "Alec", "Peter", "Chris", "Alex" };
+               //     Console.WriteLine(name);
+               //}
+               //Console.ReadLine();
+
+               string[] friends = { "Alec", "Peter", "Chris", "Alex" };
             
                 foreach(string friend in friends)
                 {

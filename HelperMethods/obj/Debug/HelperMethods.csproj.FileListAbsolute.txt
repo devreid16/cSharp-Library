@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\obj\Debug\HelperMethods.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\HelperMethods\obj\Debug\HelperMethods.pdb

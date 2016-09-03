@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\bin\Debug\Methods.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\bin\Debug\Methods.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\bin\Debug\Methods.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\obj\Debug\Methods.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\obj\Debug\Methods.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache

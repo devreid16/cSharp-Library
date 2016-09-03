@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\bin\Debug\MoreStringPractice.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\bin\Debug\MoreStringPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\bin\Debug\MoreStringPractice.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\obj\Debug\MoreStringPractice.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\obj\Debug\MoreStringPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\MoreStringPractice\obj\Debug\MoreStringPractice.pdb

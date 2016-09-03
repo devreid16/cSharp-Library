@@ -1,0 +1,5 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance2\bin\Debug\Inheritance2.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance2\bin\Debug\Inheritance2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance2\bin\Debug\Inheritance2.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance2\obj\Debug\Inheritance2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Inheritance2\obj\Debug\Inheritance2.pdb

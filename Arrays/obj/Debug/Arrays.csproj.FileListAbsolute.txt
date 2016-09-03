@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\bin\Debug\Arrays.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\bin\Debug\Arrays.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\obj\Debug\Arrays.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\Arrays\obj\Debug\Arrays.pdb
