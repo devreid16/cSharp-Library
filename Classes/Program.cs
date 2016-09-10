@@ -31,9 +31,40 @@ namespace Classes
             Car jensCar = new Car();
             jensCar.IsAutomatic = false;
             Console.WriteLine("Jen's car is automatic is: {0}", jensCar.IsAutomatic);
-            Console.ReadLine();
+            //Console.ReadLine();
+
+               //*setting properties
+               Shoe myNewshoe = new Shoe();
+               myNewshoe.Designer = "Steve Madden";
+               myNewshoe.Color = "Black";
+               myNewshoe.Size = 9;
+               myNewshoe.Price = 40;
+
+               // double marketValueShoe = DetermineMarketValue(myNewshoe);
+
+               /*
+               Console.WriteLine();
+               //*getting properties
+               Console.WriteLine("My new shoe: {0} size: {1} ${2}.00",
+                    myNewshoe.Designer, myNewshoe.Size, myNewshoe.Price);
+               */
+
+               //*call method and print to schreen
+               Console.WriteLine("Shoe's Value {0:C}", myNewshoe.DetermineMarketValue());                        
+               Console.ReadLine();
+
+               //*(datatype, variable)         
         }
-    }
+          private static double DetermineMarketValue(Shoe shoe)
+          {
+
+               double shoeValue = 40.00;
+
+               //some code here...
+
+               return shoeValue;
+          }
+     }
 
     public class Car //this class is the cookie cutter
     {
@@ -50,4 +81,26 @@ namespace Classes
         }
 
     }
+
+     class Shoe
+     {
+          public string Designer { get; set; }
+          public string Color { get; set; }
+          public int Size { get; set; }
+          public int Price { get; set; }
+
+          public double DetermineMarketValue()
+          {
+               double shoeValue = 40.00;
+
+               if (this.Price > 40.00)
+               {
+                    shoeValue = 50.00;
+               }
+               else
+                    shoeValue = 30.00;
+
+               return shoeValue;
+          }
+     }
 }
