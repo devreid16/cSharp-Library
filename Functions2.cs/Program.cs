@@ -9,8 +9,7 @@ namespace Functions2.cs
     class Program
     {
         static void Main(string[] args)
-        {
-            
+        {            
         }          
 
         string name = "Sarah";
@@ -18,7 +17,7 @@ namespace Functions2.cs
 
         public void frnName(string name, int years)
         {
-            Console.WriteLine($"I've known { 0} {1 } name, years" );
+            Console.WriteLine("I've known", name + "for" + years );
             Console.ReadLine();
         }
 

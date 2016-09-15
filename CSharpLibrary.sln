@@ -37,8 +37,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTutorialKudvenkat", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{D69A2A1E-DAC4-456C-BF00-338F3BA25DF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions2.cs", "Functions2.cs\Functions2.cs.csproj", "{3523FD98-C2F8-4852-ADFF-62CEE77223CF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{05908A08-CF65-472F-B82F-F7BD8CC31B90}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryPractice", "DictionaryPractice\DictionaryPractice.csproj", "{3429010A-818C-4A3F-A7CA-D3CA3CCCF0BB}"
@@ -64,6 +62,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethods", "HelperMethods\HelperMethods.csproj", "{E5B82F0A-5716-4282-A4ED-88E28744C99C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{23D7116F-43ED-478F-9FC6-BC2642D2762A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionPractice2", "FunctionPractice2\FunctionPractice2.csproj", "{AEF9F7A0-9701-4E77-A125-1E8EFA9F62CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,10 +139,6 @@ Global
 		{D69A2A1E-DAC4-456C-BF00-338F3BA25DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69A2A1E-DAC4-456C-BF00-338F3BA25DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69A2A1E-DAC4-456C-BF00-338F3BA25DF0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3523FD98-C2F8-4852-ADFF-62CEE77223CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3523FD98-C2F8-4852-ADFF-62CEE77223CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3523FD98-C2F8-4852-ADFF-62CEE77223CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3523FD98-C2F8-4852-ADFF-62CEE77223CF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05908A08-CF65-472F-B82F-F7BD8CC31B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -195,6 +191,10 @@ Global
 		{23D7116F-43ED-478F-9FC6-BC2642D2762A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23D7116F-43ED-478F-9FC6-BC2642D2762A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23D7116F-43ED-478F-9FC6-BC2642D2762A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF9F7A0-9701-4E77-A125-1E8EFA9F62CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF9F7A0-9701-4E77-A125-1E8EFA9F62CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF9F7A0-9701-4E77-A125-1E8EFA9F62CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF9F7A0-9701-4E77-A125-1E8EFA9F62CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

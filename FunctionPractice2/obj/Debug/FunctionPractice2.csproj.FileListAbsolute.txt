@@ -1,0 +1,5 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\FunctionPractice2\bin\Debug\FunctionPractice2.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\FunctionPractice2\bin\Debug\FunctionPractice2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\FunctionPractice2\bin\Debug\FunctionPractice2.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\FunctionPractice2\obj\Debug\FunctionPractice2.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\FunctionPractice2\obj\Debug\FunctionPractice2.pdb

@@ -29,18 +29,30 @@ namespace ReverseString
             //Console.ReadLine();
 
 
-            string name = "Eleven Fifty"; 
-            string RevStr = "";
+            //string name = "Eleven Fifty"; 
+            //string RevStr = "";
 
-            for (int i = name.Length - 1; i >= 0; i--)
+            //for (int i = name.Length - 1; i >= 0; i--)
+            //{
+            //    RevStr = RevStr + name[i];
+            //}
+            //Console.WriteLine("Name Reversed: {0}", RevStr);
+            //Console.ReadLine();
+
+
+            string Str = "";
+            string revStr = "";
+
+            Console.WriteLine("Enter a string:");
+            Str = Console.ReadLine();
+
+            for(int i = Str.Length - 1; i >= 0; i--)
             {
-                RevStr = RevStr + name[i];
+                revStr = revStr + Str[i];
             }
-            Console.WriteLine("Name Reversed: {0}", RevStr);
+
+            Console.WriteLine("Reversed string: {0}", revStr);
             Console.ReadLine();
-
-
-
         }       
         
     }    
