@@ -38,18 +38,31 @@ namespace DictionaryPractice
             //}
             //Console.ReadLine();
 
-            Dictionary<string, int> friends = new Dictionary<string, int>()
+            //Dictionary<string, int> friends = new Dictionary<string, int>()
+            //{
+            //    {"Norma", 15 },
+            //    {"Sarah", 12 },
+            //    {"BettySue", 8 }
+            //};
+
+            //foreach(KeyValuePair<string, int> pair in friends)
+            //{
+            //    Console.WriteLine("I've known {0} for {1} years", pair.Key, pair.Value);
+            //}
+
+            //Console.ReadLine();
+
+            Dictionary<string, int> movies = new Dictionary<string, int>()
             {
-                {"Norma", 15 },
-                {"Sarah", 12 },
-                {"BettySue", 8 }
+                {"Bourne Identity", 2009 },
+                {"Bourne Supremacy", 2012 },
+                {"Bourne, Ultimatium", 2014 }
             };
 
-            foreach(KeyValuePair<string, int> pair in friends)
+            foreach(KeyValuePair<string, int> Pair in movies)
             {
-                Console.WriteLine("I've known {0} for {1} years", pair.Key, pair.Value);
+                Console.WriteLine("My favorite movie was {0}" + " in" +" {1}", Pair.Key, Pair.Value);
             }
-
             Console.ReadLine();
         }
     }
