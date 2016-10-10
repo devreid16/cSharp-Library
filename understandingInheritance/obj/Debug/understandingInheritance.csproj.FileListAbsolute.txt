@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\bin\Debug\understandingInheritance.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\bin\Debug\understandingInheritance.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\bin\Debug\understandingInheritance.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\obj\Debug\understandingInheritance.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\obj\Debug\understandingInheritance.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\understandingInheritance\obj\Debug\understandingInheritance.pdb

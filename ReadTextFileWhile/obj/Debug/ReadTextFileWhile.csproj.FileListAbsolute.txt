@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\obj\Debug\ReadTextFileWhile.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CSharpPractice\obj\Debug\CSharpPractice.pdb

@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace DictionaryPractice
 {
     class Program
-    {
+    {      
+        
         static void Main(string[] args)
         {
 
@@ -59,11 +60,13 @@ namespace DictionaryPractice
                 {"Bourne, Ultimatium", 2014 }
             };
 
-            foreach(KeyValuePair<string, int> Pair in movies)
+            foreach (KeyValuePair<string, int> Pair in movies)
             {
-                Console.WriteLine("My favorite movie was {0}" + " in" +" {1}", Pair.Key, Pair.Value);
+                Console.WriteLine("My favorite movie was {0}" + " in" + " {1}", Pair.Key, Pair.Value);
             }
             Console.ReadLine();
+
+
         }
     }
 }

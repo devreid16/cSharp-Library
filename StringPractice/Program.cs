@@ -38,18 +38,34 @@ namespace StringPractice
             //Console.ReadLine();
 
 
-            string hisFname = "Bob";
-            string hisLname = "Jones";
+            //string hisFname = "Bob";
+            //string hisLname = "Jones";
 
-            Console.WriteLine("Name: " + hisFname + " " + hisLname);
+            //Console.WriteLine("Name: " + hisFname + " " + hisLname);
+            //Console.ReadLine();
+
+            //Console.WriteLine("Enter a new name: ");
+            //hisFname = Console.ReadLine();
+
+            //Console.WriteLine("New Name: " + hisFname + " " + hisLname);
+            //Console.ReadLine();
+
+            string FirstName = "Angela";
+            string LastName = "Reid";
+
+            //Console.WriteLine("Name: " + FirstName + " " + LastName);
+            //Console.ReadLine();
+
+            Console.WriteLine("Please enter your First Name: ");
+            FirstName = Console.ReadLine();
+
+            Console.WriteLine("Please enter your Last Name: ");
+            LastName = Console.ReadLine();
+
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
             Console.ReadLine();
 
-            Console.WriteLine("Enter a new name: ");
-            hisFname = Console.ReadLine();
 
-            Console.WriteLine("New Name: " + hisFname + " " + hisLname);
-            Console.ReadLine();
-            
 
         }      
 
