@@ -1,0 +1,5 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingScope\bin\Debug\UnderstandingScope.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingScope\bin\Debug\UnderstandingScope.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingScope\bin\Debug\UnderstandingScope.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingScope\obj\Debug\UnderstandingScope.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingScope\obj\Debug\UnderstandingScope.pdb

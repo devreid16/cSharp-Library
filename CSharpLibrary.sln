@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFileWhile2", "ReadT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "understandingInheritance", "understandingInheritance\understandingInheritance.csproj", "{FCF22133-C165-4AC8-B131-D30EF9083CA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{FCE3F865-FD05-4CEA-962E-8712F268C8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{FCF22133-C165-4AC8-B131-D30EF9083CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF22133-C165-4AC8-B131-D30EF9083CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF22133-C165-4AC8-B131-D30EF9083CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
