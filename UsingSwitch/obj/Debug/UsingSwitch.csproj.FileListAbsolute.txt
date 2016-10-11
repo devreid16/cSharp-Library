@@ -1,0 +1,6 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\bin\Debug\UsingSwitch.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\bin\Debug\UsingSwitch.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\bin\Debug\UsingSwitch.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\obj\Debug\UsingSwitch.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\obj\Debug\UsingSwitch.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UsingSwitch\obj\Debug\UsingSwitch.pdb

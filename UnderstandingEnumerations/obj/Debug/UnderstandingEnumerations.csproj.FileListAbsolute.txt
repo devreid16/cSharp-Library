@@ -1,0 +1,5 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingEnumerations\bin\Debug\UnderstandingEnumerations.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\UnderstandingEnumerations\obj\Debug\UnderstandingEnumerations.pdb

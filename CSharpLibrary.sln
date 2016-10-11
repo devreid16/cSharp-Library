@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "understandingInheritance", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{FCE3F865-FD05-4CEA-962E-8712F268C8E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSwitch", "UsingSwitch\UsingSwitch.csproj", "{526F7EB1-CAED-44F6-9E9F-4C660A13245B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingEnumerations", "UnderstandingEnumerations\UnderstandingEnumerations.csproj", "{403AC56A-BB25-41FB-8CAE-F8A2829B504B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE3F865-FD05-4CEA-962E-8712F268C8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526F7EB1-CAED-44F6-9E9F-4C660A13245B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526F7EB1-CAED-44F6-9E9F-4C660A13245B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526F7EB1-CAED-44F6-9E9F-4C660A13245B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526F7EB1-CAED-44F6-9E9F-4C660A13245B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
