@@ -4,3 +4,5 @@ C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\bin\Debug\Co
 C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\obj\Debug\CollectionsDemo.csprojResolveAssemblyReference.cache
 C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\obj\Debug\CollectionsDemo.exe
 C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\obj\Debug\CollectionsDemo.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\bin\Debug\Classes.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\CollectionsDemo\bin\Debug\Classes.pdb
