@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingSwitch", "UsingSwitch\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingEnumerations", "UnderstandingEnumerations\UnderstandingEnumerations.csproj", "{403AC56A-BB25-41FB-8CAE-F8A2829B504B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLINQ", "UnderstandingLINQ\UnderstandingLINQ.csproj", "{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{403AC56A-BB25-41FB-8CAE-F8A2829B504B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
