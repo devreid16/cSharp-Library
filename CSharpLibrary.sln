@@ -79,6 +79,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingEnumerations",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLINQ", "UnderstandingLINQ\UnderstandingLINQ.csproj", "{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFEvents", "WPFEvents\WPFEvents.csproj", "{FFEE1DA0-F48C-4796-8941-9581704771AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNETEvents", "ASPNETEvents\ASPNETEvents.csproj", "{1781860A-FF27-4981-B9D2-B84C68ED352C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +241,14 @@ Global
 		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEA5D064-73BE-4B15-8EEC-4BE4F20B1CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEE1DA0-F48C-4796-8941-9581704771AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE1DA0-F48C-4796-8941-9581704771AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEE1DA0-F48C-4796-8941-9581704771AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE1DA0-F48C-4796-8941-9581704771AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1781860A-FF27-4981-B9D2-B84C68ED352C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1781860A-FF27-4981-B9D2-B84C68ED352C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1781860A-FF27-4981-B9D2-B84C68ED352C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1781860A-FF27-4981-B9D2-B84C68ED352C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

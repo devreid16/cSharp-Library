@@ -1,0 +1,14 @@
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\bin\Debug\WPFEvents.exe.config
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\bin\Debug\WPFEvents.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\bin\Debug\WPFEvents.pdb
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\MainWindow.g.cs
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\App.g.cs
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.lref
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\MainWindow.baml
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.g.resources
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.exe
+C:\Users\reida\Desktop\TracksProjects\CSharpLibrary\WPFEvents\obj\Debug\WPFEvents.pdb
